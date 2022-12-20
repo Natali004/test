@@ -4,15 +4,11 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <iframe src="https://giphy.com/embed/DCMZYL14SScKmQrWjK" width="373" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/meetingroom-classo-kantoortechnologie-DCMZYL14SScKmQrWjK">via GIPHY</a></p>
 </div>
 
 ### ОБО мне
 - Работаю в Digital компании
 - Прохожу обучение по курсу **Инженер по тестированию: с нуля до middle**
 - Настоящий ценитель кофе
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
