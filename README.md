@@ -11,3 +11,7 @@
 - Работаю в Digital компании
 - Прохожу обучение по курсу **Инженер по тестированию: с нуля до middle**
 - Настоящий ценитель кофе
+
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=Natali004
