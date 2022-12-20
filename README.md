@@ -14,4 +14,5 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Natali004](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Natali004&theme=dark&border_radius=4)](https://git.io/streak-stats)
+
