@@ -4,12 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://giphy.com/embed/vn1mcBjKF27QV1MXJl" width="480" height="270"/>
-</div>
-
-<div id="header" align="center">
-	<h1>Hi there, I'm Natali Gontar</h1>
-	<h3>Full Stack Developer from New York</h3>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ### ОБО мне
@@ -19,6 +14,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
