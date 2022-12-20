@@ -4,11 +4,13 @@
 </div>
 
 <div align="center">
-  <iframe src="https://giphy.com/embed/DCMZYL14SScKmQrWjK" width="373" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/meetingroom-classo-kantoortechnologie-DCMZYL14SScKmQrWjK">via GIPHY</a></p>
+  <img src="https://giphy.com/embed/DCMZYL14SScKmQrWjK/giphy.gif" width="600" height="300"/>
 </div>
 
 ### ОБО мне
 - Работаю в Digital компании
 - Прохожу обучение по курсу **Инженер по тестированию: с нуля до middle**
 - Настоящий ценитель кофе
+
+
 
