@@ -4,11 +4,10 @@
 </div>
 
 <div align="center">
-  <img src="https://giphy.com/embed/vn1mcBjKF27QV1MXJl" width="100%" height="100%style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  </div><p><a href="https://giphy.com/gifs/classo-kantoortechnologie-vn1mcBjKF27QV1MXJl">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### ОБО мне
+### :woman_technologist: ### ОБО мне
 - Работаю в Digital компании
 - Прохожу обучение по курсу **Инженер по тестированию: с нуля до middle**
 - Настоящий ценитель кофе
